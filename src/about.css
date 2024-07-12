@@ -57,7 +57,7 @@ img {
     margin: 5px;
     box-shadow: 5px 2px 5px rgba(0, 0, 0, 0.1);
 }
-#aboutSection {
+.aboutSection {
     position: absolute;
     z-index: 1;
     top: 30%;
